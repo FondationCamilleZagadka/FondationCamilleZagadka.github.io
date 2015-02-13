@@ -1,52 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="486.2709mm"
-   height="273.86063mm"
-   viewBox="0 0 1723.0071 970.37228"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="logo-def.svg">
+   id="svg2"
+   viewBox="0 0 1723.0071 970.37228"
+   height="273.86063mm"
+   width="486.2709mm">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="-52.092134"
-     inkscape:cy="1266.9796"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <sodipodi:guide
-       position="4201.0874,502.20446"
-       orientation="1,0"
-       id="guide4232" />
-  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -60,61 +25,54 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Calque 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(914.72157,-729.06158)">
+     transform="translate(914.72157,-729.06158)"
+     id="layer1">
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot3336"
+       transform="matrix(5.1748996,0,0,5.1748996,3818.8707,-3043.7589)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Inknut Antiqua';-inkscape-font-specification:'Inknut Antiqua Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(5.1748996,0,0,5.1748996,3818.8707,-3043.7589)"><flowRegion
+       id="flowRoot3336"
+       xml:space="preserve"><flowRegion
          id="flowRegion3338"><rect
-           id="rect3340"
-           width="588.91895"
-           height="158.59395"
-           x="75.761444"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Inknut Antiqua';-inkscape-font-specification:'Inknut Antiqua Light'"
            y="202.82391"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Inknut Antiqua';-inkscape-font-specification:'Inknut Antiqua Light'" /></flowRegion><flowPara
+           x="75.761444"
+           height="158.59395"
+           width="588.91895"
+           id="rect3340" /></flowRegion><flowPara
          id="flowPara3342" /></flowRoot>    <flowRoot
-       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:206.99598694px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3348"
-       style="font-style:normal;font-weight:normal;font-size:206.99598694px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       xml:space="preserve"><flowRegion
          id="flowRegion3350"><rect
-           id="rect3352"
-           width="657.95154"
-           height="384.42111"
+           y="-1582.5627"
            x="4975.8306"
-           y="-1582.5627" /></flowRegion><flowPara
+           height="384.42111"
+           width="657.95154"
+           id="rect3352" /></flowRegion><flowPara
          id="flowPara3354" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:746.61010742px;line-height:125%;font-family:Aileron;-inkscape-font-specification:'Aileron Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="81.949501"
-       y="1471.8312"
        id="text3344-2-6-2-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3346-3-0-01-5"
-         x="81.949501"
-         y="1471.8312"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Aileron;-inkscape-font-specification:'Aileron Bold'">Z</tspan></text>
-    <path
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:72.36579895;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -429.54575,765.24448 A 449.00111,449.00111 0 0 0 -878.53867,1214.2477 449.00111,449.00111 0 0 0 -429.54575,1663.251 449.00111,449.00111 0 0 0 -53.395236,1458.7012 449.00111,449.00111 0 0 0 323.10924,1663.251 449.00111,449.00111 0 0 0 772.10268,1214.2477 449.00111,449.00111 0 0 0 323.10924,765.24448 449.00111,449.00111 0 0 0 -53.041273,969.80464 449.00111,449.00111 0 0 0 -429.54575,765.24448 Z"
-       id="path3374-2-3-84"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
+       y="1471.8312"
+       x="81.949501"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:746.61010742px;line-height:125%;font-family:Aileron;-inkscape-font-specification:'Aileron Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="155.16222"
-       y="-956.67035"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Aileron;-inkscape-font-specification:'Aileron Bold'"
+         y="1471.8312"
+         x="81.949501"
+         id="tspan3346-3-0-01-5">Z</tspan></text>
+    <path
+       id="path3374-2-3-84"
+       d="M -429.54575,765.24448 A 449.00111,449.00111 0 0 0 -878.53867,1214.2477 449.00111,449.00111 0 0 0 -429.54575,1663.251 449.00111,449.00111 0 0 0 -53.395236,1458.7012 449.00111,449.00111 0 0 0 323.10924,1663.251 449.00111,449.00111 0 0 0 772.10268,1214.2477 449.00111,449.00111 0 0 0 323.10924,765.24448 449.00111,449.00111 0 0 0 -53.041273,969.80464 449.00111,449.00111 0 0 0 -429.54575,765.24448 Z"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:72.36579895;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="scale(-1,-1)"
        id="text3344-2-6-3-7"
-       sodipodi:linespacing="125%"
-       transform="scale(-1,-1)"><tspan
-         sodipodi:role="line"
-         id="tspan3346-3-0-8-0"
-         x="155.16222"
+       y="-956.67035"
+       x="155.16222"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:746.61010742px;line-height:125%;font-family:Aileron;-inkscape-font-specification:'Aileron Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Aileron;-inkscape-font-specification:'Aileron Bold'"
          y="-956.67035"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Aileron;-inkscape-font-specification:'Aileron Bold'">C</tspan></text>
+         x="155.16222"
+         id="tspan3346-3-0-8-0">C</tspan></text>
   </g>
 </svg>

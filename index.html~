@@ -10,7 +10,7 @@
 			<img class="logo" src="img/logo-def.png" />
 			<h1 class="titre">Fondation <br/>Camille Zagadka</h1>
 			<p class="presentation">
-				La <i>Fondation Camille Zagadka</i> a&nbsp;été fondée dans le&nbsp;but de&nbsp;promouvoir et&nbsp;diffuser l'œuvre et&nbsp;la&nbsp;pensée de&nbsp;Camille Zagadka, philosophe et&nbsp;artiste humaniste ayant cédé son&nbsp;patronyme au&nbsp;nom de&nbsp;la&nbsp;liberté du&nbsp;savoir, ainsi que la&nbsp;<a href="" >licence Zagadka <img class="logo-petit" src="img/logo-def_red.png" /></a>.
+				La <i>Fondation Camille Zagadka</i> a&nbsp;été fondée dans le&nbsp;but de&nbsp;promouvoir et&nbsp;diffuser l'œuvre et&nbsp;la&nbsp;pensée de&nbsp;Camille Zagadka, philosophe et&nbsp;artiste humaniste ayant cédé son&nbsp;patronyme au&nbsp;nom de&nbsp;la&nbsp;liberté du&nbsp;savoir, ainsi que la&nbsp;<a href="" >licence Zagadka <img class="logo-petit" src="img/logo-def_red.svg" /></a>.
 			</p>
 		</header>
 		<div class="content">
@@ -59,7 +59,7 @@
 						<img class="testa" alt="Wroclaw map" src="img/lettre_2_web.jpeg" />
 						<h1 id="la-licence-zagadka">La licence Zagadka</h1>
 						<p>C'est ainsi que naît aujourd'hui, le 13 février 2015, 71 ans jours pour jours après sa mort, année dans laquelle le travail de Camille Zagadka s'élève dans le domaine public, la <strong>license Zagadka</strong>. Construite grâce à son testament et certifiée par les avocats de la <em>Fondation Camille Zagadka</em>, celle-ci vous offre la possibilité de placer toute œuvre de l'esprit dans le domaine public et ainsi libérer votre œuvre des restrictions de droits d’auteur pour le monde entier. Attention, une fois la licence appliquée, votre travail est attribué à Camille Zagadka et il n'est plus possible de faire valoir votre propriété intellectuelle ou matérielle.</p>
-						<img class="tesla" style="width:20%; margin-top: 80px;" src="img/logo-def.png" />
+						<img class="tesla" style="width:20%; margin-top: 80px;" src="img/logo-def.svg" />
 
 					</div>
 	</body>
